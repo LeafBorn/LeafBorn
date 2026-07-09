@@ -65,3 +65,33 @@
 
 
 </div>
+
+
+## 📊 GitHub Stats  
+
+
+<p align="center">
+
+
+  
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeafBorn&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeafBorn&show_icons=true&theme=tokyonight" height="160"/>
+
+<div align="center">
+
+</div>
+
+
+
+## 📈 Contribution Heatmap
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeafBorn&theme=tokyo-night&bg_color=09090b&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true" width="98%"/>
+</div>
+
+<div align="center">
+
+
+
+<br/>
+
