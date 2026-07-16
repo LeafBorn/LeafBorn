@@ -31,40 +31,56 @@
 
 ## 🧠 Tech Stack  
 
-<h3 align="center">📊 Data & Analytics</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-</p>
-
-<h3 align="center">📈 Visualization</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45"/>
-</p>
-
-<h3 align="center">🤖 Machine Learning</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
-</p>
-
-<h3 align="center">⚙️ Tools & Platforms</h3>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/google-colab.png" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</p>
+---
 
 
-</div>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Machine Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" />
+        <img src="https://img.shields.io/badge/NLP-003B57?style=flat-square" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Generative AI & LLMs</h3>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+        <img src="https://img.shields.io/badge/FAISS-0078D7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>MLOps & Production</h3>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/ZenML-431D93?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+
 
 
 ## 📊 GitHub Stats  
