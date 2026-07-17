@@ -8,6 +8,25 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## About Me 
+
+```python
+class LeafBorn:
+    def __init__(self):
+        self.alias       = ["Abhay"]
+        self.role        = "AI/ML Engineer"
+        self.focus       = ["Machine Learning", "Large Language Models", "RAG","Python Development"]
+        self.languages   = ["Python", "SQL", "C"]
+
+    def current_mission(self):
+        return "Become a Machine Learning Engineer and build impactful AI products."
+
+    def operational_status(self):
+        return "Learning | Building | Open Source | LeetCode"
+```
+---
+
+
 - 🔭 Building (Pixxie V.2) a custom GPT-style LLM from scratch [Pixxie-version-2.0](Pixxie-version-2.0)
 
 - 🎥 A complete Multi-Agent AI Research Pipeline built using LangChain + LLMs + Tavily + BeautifulSoup [Research-Labs](https://github.com/LeafBorn/Research-Labs)
