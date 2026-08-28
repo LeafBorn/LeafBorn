@@ -106,14 +106,10 @@ class LeafBorn:
 ## 📊 GitHub Stats  
 
 
-<p align="center">
-
-
-  
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeafBorn&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeafBorn&show_icons=true&theme=tokyonight" height="160"/>
-
 <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=LeafBorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LeafBorn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" />
+</div>
 
 </div>
 
