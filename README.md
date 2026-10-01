@@ -30,17 +30,19 @@ class LeafBorn:
 
 - 🔭 Building (Pixxie V.2) a custom GPT-style LLM from scratch [Pixxie-version-2.0](Pixxie-version-2.0)
 
+- ⚡QuarkLlama (0.5B) — Custom PyTorch LLM & Real-Time Web-Grounded AI Companion.[Quark](https://github.com/LeafBorn/Quark))
+
 - 🎥 A complete Multi-Agent AI Research Pipeline built using LangChain + LLMs + Tavily + BeautifulSoup [Research-Labs](https://github.com/LeafBorn/Research-Labs)
 
-- ⚡ A blazing-fast Generative AI QA Chatbot that remembers previous conversations, [Context-Aware-Q-A-Chatbot](https://github.com/LeafBorn/Context-Aware-Q-A-Chatbot)
+-  🤖 Minimalist, High-Performance 4K AI Video & Image Super-Resolution System [NEURAL SUPER RESOLUTION ENGINE](https://github.com/LeafBorn/-NEURAL-SUPER-RESOLUTION-ENGINE)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeafBorn?tab=repositories](https://github.com/LeafBorn?tab=repositories)
 
 - 🧩 Connect with me [https://www.linkedin.com/in/leafborn/](https://www.linkedin.com/in/leafborn/)
 
-- 📫 How to reach me **abhaycoder10301@gmail.com**
+- 🌱 400+ DSA problems solved on LeetCode [https://leetcode.com/u/LeafBorn/](https://leetcode.com/u/LeafBorn/)
 
-- 🌱 300+ DSA problems solved on LeetCode [https://leetcode.com/u/LeafBorn/](https://leetcode.com/u/LeafBorn/)
+- 📫 How to reach me **abhaycoder10301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -113,15 +115,6 @@ class LeafBorn:
 
 </div>
 
-
-
-## 📈 Contribution Heatmap
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeafBorn&theme=tokyo-night&bg_color=09090b&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true" width="98%"/>
-</div>
-
-<div align="center">
 
 
 
