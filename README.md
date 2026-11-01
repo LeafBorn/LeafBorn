@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Vishwakarma</h1>
 <h3 align="center">LeafBorn | B.Tech Student | AI/ML Engineer with hands-on experience in Python, PyTorch, Deep Learning, Scikit-learn, NLP, LLMs, LangChain, Hugging Face, Computer Vision, OpenCV, Streamlit, SQL, and Git.</h3>
 
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+</p>
 
 <!-- Snake Game Repo View -->
 
@@ -45,9 +48,28 @@ class LeafBorn:
 - 📫 How to reach me **abhaycoder10301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/leafborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leafborn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leafborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leafborn" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://github.com/LeafBorn">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/leafborn/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="abhaycoder10301@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+ <a href="https://www.leetcode.com/leafborn">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-q6gs.onrender.com/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;
 </p>
 
 
